@@ -1,1 +1,11 @@
 
+#### 📄 `requirements.txt` (initial)
+```txt
+langchain
+pandas
+openai
+streamlit
+pyyaml
+matplotlib
+plotly
+
