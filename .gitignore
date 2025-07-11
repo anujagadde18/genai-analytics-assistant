@@ -1,11 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.ipynb_checkpoints/
+readme_assets/
 
-#### 📄 `requirements.txt` (initial)
-```txt
-langchain
-pandas
-openai
-streamlit
-pyyaml
-matplotlib
-plotly
 
